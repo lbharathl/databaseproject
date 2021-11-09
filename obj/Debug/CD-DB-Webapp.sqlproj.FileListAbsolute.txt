@@ -1,0 +1,10 @@
+T:\CD-DB-Webapp\bin\Debug\CD-DB-Webapp.dacpac
+T:\CD-DB-Webapp\bin\Debug\CD_DB_Webapp.dll
+T:\CD-DB-Webapp\bin\Debug\CD_DB_Webapp.pdb
+T:\CD-DB-Webapp\obj\Debug\CD-DB-Webapp.sqlproj.AssemblyReference.cache
+T:\CD-DB-Webapp\obj\Debug\Model.xml
+T:\CD-DB-Webapp\obj\Debug\refactor.xml
+T:\CD-DB-Webapp\obj\Debug\postdeploy.sql
+T:\CD-DB-Webapp\obj\Debug\predeploy.sql
+T:\CD-DB-Webapp\obj\Debug\CD_DB_Webapp.dll
+T:\CD-DB-Webapp\obj\Debug\CD_DB_Webapp.pdb
